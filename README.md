@@ -14,4 +14,4 @@ All of the below plots are done by Mathematica using MandelbrotSetPlot[].
 
 
 ### 4. Julia - I
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183556717-df16c7d9-c1c2-4b4c-8ce9-a078bedfb6c6.png" width="700" height="600" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183556717-df16c7d9-c1c2-4b4c-8ce9-a078bedfb6c6.png" width="500" height="600" ></p>
