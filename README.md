@@ -11,3 +11,7 @@ All of the below plots are done by Mathematica using MandelbrotSetPlot[].
 
 ### 3. Main Left Top
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183544439-63c4ef14-c2bd-4ac5-ae5d-c70a24658884.png" width="700" height="600" ></p>
+
+
+### 4. Julia - I
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183556717-df16c7d9-c1c2-4b4c-8ce9-a078bedfb6c6.png" width="700" height="600" ></p>
