@@ -1,6 +1,6 @@
 ## Gallery-Fractal
 
-All of the below plots are done by Mathematica using MandelbrotSetPlot[] and JuliaSetPlot[].
+All of the plots are done by Mathematica using MandelbrotSetPlot[] and JuliaSetPlot[].
 
 ### 1. Mandelbrot - Whole
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183548101-f1976168-d128-4e02-bb46-0d69122ecac8.png" width="700" height="600" ></p>
