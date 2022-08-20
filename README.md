@@ -1,3 +1,4 @@
+***
 ### 1. Mandelbrot - I
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183548101-f1976168-d128-4e02-bb46-0d69122ecac8.png" width="700" height="600" ></p>
 
