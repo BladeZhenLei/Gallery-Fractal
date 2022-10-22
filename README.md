@@ -1,4 +1,7 @@
 ***
+### 1. Collatz I
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/197308239-c7c762f9-e5b2-4228-8225-16b756c07318.png" width="500" height="400" ></p>
+
 ### 1. Mandelbrot I
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183548101-f1976168-d128-4e02-bb46-0d69122ecac8.png" width="700" height="600" ></p>
 
@@ -13,7 +16,4 @@
 
 ### 5. Julia II
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183559846-79afddd2-cd24-4892-b66c-63880a1d96e1.png" width="500" height="600" ></p>
-
-### 6. Julia II
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/197308239-c7c762f9-e5b2-4228-8225-16b756c07318.png" width="500" height="600" ></p>
 
