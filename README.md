@@ -1,9 +1,9 @@
 ***
 ### 1. Collatz I
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/197308239-c7c762f9-e5b2-4228-8225-16b756c07318.png" width="500" height="400" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/197308239-c7c762f9-e5b2-4228-8225-16b756c07318.png" width="700" height="600" ></p>
 
 ### 1. Mandelbrot I
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183548101-f1976168-d128-4e02-bb46-0d69122ecac8.png" width="700" height="600" ></p>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183548101-f1976168-d128-4e02-bb46-0d69122ecac8.png" width="600" height="600" ></p>
 
 ### 2. Mandelbrot II
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183552763-ba843481-a337-4f83-9608-199ea4d44121.png" width="700" height="600" ></p>
