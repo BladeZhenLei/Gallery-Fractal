@@ -1,4 +1,3 @@
-***
 ### 1. Collatz I
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/197308239-c7c762f9-e5b2-4228-8225-16b756c07318.png" width="700" height="600" ></p>
 
