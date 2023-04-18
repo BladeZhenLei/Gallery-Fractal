@@ -1,3 +1,4 @@
+***
 ### About
 Fractals are among the most fascinating mathematical objects, they have self similarity and resemble an infinite structure.
 
