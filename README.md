@@ -17,7 +17,7 @@ Fractals are among the most fascinating mathematical objects, they have self sim
 ### 5. Julia II
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/183559846-79afddd2-cd24-4892-b66c-63880a1d96e1.png" width="500" height="600" ></p>
 
-### 5. Julia II
+### 6. Julia III
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/235278922-dc77c54b-a38e-4e23-9d1a-305cb6b6918c.png" width="500" height="600" ></p>
 
 
